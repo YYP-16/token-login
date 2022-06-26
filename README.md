@@ -1,7 +1,7 @@
 ## token-login
 Simple code to log into a Discord account just using the Token
 
-#Usage
+# Usage
 
 Simply paste your Token in the code and put the code in your Discord Terminal (ctrl+shift+i).
 
